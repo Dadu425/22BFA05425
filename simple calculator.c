@@ -64,7 +64,7 @@ int main() {
 }
 
 
-OUTPUT:
+*/OUTPUT:
 Simple Calculator
 1. Add
 2. Subtract
@@ -102,8 +102,8 @@ Simple Calculator
 2. Subtract
 3. Multiply
 4. Divide
-5. Exit
-Explanation:
+5. Exit/*
+
 Functions: The program uses separate functions for each operation.
 Menu: The user can select the desired operation and input two numbers.
 Loop: The program runs in a loop, allowing the user to perform multiple operations until they choose to exit.
