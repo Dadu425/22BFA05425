@@ -102,9 +102,9 @@ Simple Calculator
 2. Subtract
 3. Multiply
 4. Divide
-5. Exit/*
-
+5. Exit
+EXPLANATION:
 Functions: The program uses separate functions for each operation.
 Menu: The user can select the desired operation and input two numbers.
-Loop: The program runs in a loop, allowing the user to perform multiple operations until they choose to exit.
+Loop: The program runs in a loop, allowing the user to perform multiple operations until they choose to exit./*
 
