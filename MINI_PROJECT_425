@@ -62,6 +62,47 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT:
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 1
+Enter two numbers: 12 12
+Result: 24.00
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 4
+Enter two numbers: 22 52
+
+
+Result: 11.00
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 4
+Enter two numbers:  12 8912 89
+Result: 0.13
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
 Explanation:
 Functions: The program uses separate functions for each operation.
 Menu: The user can select the desired operation and input two numbers.
